@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nate004
+- 👋 Hi, I’m Taiwo Babatunde (@Nate004)
 - 👀 I’m interested in Data Science, Machine Learning, AI, Neural networks, IoT and blockchain Tech
 - 🌱 I’m currently learning Data science and ML
 - 💞️ I’m looking to collaborate on different programming challenges and solve massive data issues as a data engineer/analytics
